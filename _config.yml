@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "SG"
+title                    : ""
 title_separator          : "-"
 name                     : "Stephen Go"
 description              : "Personal Website"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Stephen Go"
   avatar           : "/assets/StephenGo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  bio              : "Student at Georgia Tech, founder of Data Science at GT"
   location         : "Atlanta, GA"
   email            : "sgo8@gatech.edu"
   uri              :
@@ -90,12 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "stephengo"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "stephengo"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
